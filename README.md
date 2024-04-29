@@ -23,7 +23,7 @@ To run the code in this repository, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/NIFTY50-Analysis.git
+git clone https://github.com/ArihanSinha08/NIFTY50-Analysis.git
 Install the required dependencies:
 bash
 Copy code
